@@ -1,2 +1,2 @@
-brewmark-.github.com
+brewmark.github.com
 ====================
